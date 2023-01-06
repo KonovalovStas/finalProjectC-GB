@@ -1,0 +1,15 @@
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\bin\Debug\net7.0\FP.exe
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\bin\Debug\net7.0\FP.deps.json
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\bin\Debug\net7.0\FP.runtimeconfig.json
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\bin\Debug\net7.0\FP.dll
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\bin\Debug\net7.0\FP.pdb
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\FP.csproj.AssemblyReference.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\FP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\FP.AssemblyInfoInputs.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\FP.AssemblyInfo.cs
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\FP.csproj.CoreCompileInputs.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\FP.dll
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\refint\FP.dll
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\FP.pdb
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\FP.genruntimeconfig.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP\obj\Debug\net7.0\ref\FP.dll
