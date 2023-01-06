@@ -1,0 +1,15 @@
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\bin\Debug\net7.0\FP68.exe
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\bin\Debug\net7.0\FP68.deps.json
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\bin\Debug\net7.0\FP68.runtimeconfig.json
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\bin\Debug\net7.0\FP68.dll
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\bin\Debug\net7.0\FP68.pdb
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\FP68.csproj.AssemblyReference.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\FP68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\FP68.AssemblyInfoInputs.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\FP68.AssemblyInfo.cs
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\FP68.csproj.CoreCompileInputs.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\FP68.dll
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\refint\FP68.dll
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\FP68.pdb
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\FP68.genruntimeconfig.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP68\obj\Debug\net7.0\ref\FP68.dll
