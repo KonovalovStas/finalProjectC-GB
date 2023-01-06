@@ -1,0 +1,15 @@
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\bin\Debug\net7.0\FP66.exe
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\bin\Debug\net7.0\FP66.deps.json
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\bin\Debug\net7.0\FP66.runtimeconfig.json
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\bin\Debug\net7.0\FP66.dll
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\bin\Debug\net7.0\FP66.pdb
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\FP66.csproj.AssemblyReference.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\FP66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\FP66.AssemblyInfoInputs.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\FP66.AssemblyInfo.cs
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\FP66.csproj.CoreCompileInputs.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\FP66.dll
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\refint\FP66.dll
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\FP66.pdb
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\FP66.genruntimeconfig.cache
+D:\Программы\Мои первые программы\finalProjectC#GB\finalProjectC\FP66\obj\Debug\net7.0\ref\FP66.dll
